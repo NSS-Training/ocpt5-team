@@ -3,12 +3,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-03T10:55:58.668085159Z"
+    created: "2023-08-03T14:59:46.593054021Z"
     description: A Helm chart for Kubernetes
     digest: 35b6b1650806dfa57be976315e990a1832b70fc63c01fd128c96e388ec28e3ca
     name: nginx
     type: application
     urls:
-    - https://github.com/NSS-Training/ocpt5-team.git/nginx-0.1.0.tgz
+    - https://github.com/NssTeam/ocpt5-team.git/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-03T10:55:58.667219284Z"
+generated: "2023-08-03T14:59:46.592249562Z"
