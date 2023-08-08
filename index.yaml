@@ -8,6 +8,8 @@ entries:
     digest: 35b6b1650806dfa57be976315e990a1832b70fc63c01fd128c96e388ec28e3ca
     name: nginx
     type: application
+    sources:
+      - https://github.com/helm/helm
     urls:
     - https://github.com/NssTeam/ocpt5-team.git/nginx-0.1.0.tgz
     version: 0.1.0
